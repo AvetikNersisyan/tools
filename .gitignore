@@ -21,3 +21,4 @@ coverage
 out/
 /build/
 node_modules
+/dist
